@@ -6,9 +6,9 @@
 
 -   **1.** Create a _[customer performance report in India](https://github.com/SHADAB-DA/Excel-Sales-Analysis/blob/main/Customer%20performance%20by%20india%20pdf.pdf)_ 
 
-    **2.** Create a _[customer performance report](https://github.com/uradisaikrishna/Excel-Sales-Analysis/blob/main/Customer_performance_report.pdf)_ 
+    **2.** Create a _[customer performance report](https://github.com/SHADAB-DA/Excel-Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **3.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/uradisaikrishna/Excel-Sales-Analysis/blob/main/Market_Performance%20vs%20Target.pdf)_
+    **3.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/SHADAB-DA/Excel-Sales-Analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -21,9 +21,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/uradisaikrishna/Excel-Sales-Analysis/blob/main/P%20%26%20L%20by%20fiscal%20year.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/SHADAB-DA/Excel-Sales-Analysis/blob/main/P%26L%20Fiscal%20Year%20Report.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Months](https://github.com/uradisaikrishna/Excel-Sales-Analysis/blob/main/P%20%26%20L%20by%20Month.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Months](https://github.com/SHADAB-DA/Excel-Sales-Analysis/blob/main/P%26L%20By%20Months%20Report.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
